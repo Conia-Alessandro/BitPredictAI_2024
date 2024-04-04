@@ -1,5 +1,6 @@
 # BitPredictAI_2024
 bitcoin prediction for group 1
+Consider Linear Extrapolation instead of Interpolation, make changes to the document accordingly.
 
 # Useful Links
 
